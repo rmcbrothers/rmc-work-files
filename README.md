@@ -17,11 +17,12 @@ Suporte para outros formatos futuramente.
 ## :rocket: Tecnologias
 
 - C#
-- .NET Framework 4.5
+
 
 ## :gear: Ferramentas
 
-- GemBox.Spreadsheet
+- .NET Framework 4.5
+- GemBox 
 
 ## Licença
 Esse projeto está sob a licença MIT.
