@@ -11,7 +11,8 @@
 
 ## :information_source: Sobre
 
-Projeto de uma biblioteca para exportação de dados para Excel.
+Projeto de uma biblioteca para exportação de dados para Excel. 
+Suporte para outros formatos futuramente.  
 
 ## :rocket: Tecnologias
 
