@@ -1,0 +1,14 @@
+C:\Git\SOGESP - SGUn\WorkFiles\bin\Debug\WorkFiles.dll
+C:\Git\SOGESP - SGUn\WorkFiles\bin\Debug\WorkFiles.pdb
+C:\Git\SOGESP - SGUn\WorkFiles\bin\Debug\GemBox.Spreadsheet.dll
+C:\Git\SOGESP - SGUn\WorkFiles\bin\Debug\GemBox.Spreadsheet.xml
+C:\Git\SOGESP - SGUn\WorkFiles\obj\Debug\WorkFiles.csproj.AssemblyReference.cache
+C:\Git\SOGESP - SGUn\WorkFiles\obj\Debug\WorkFiles.csproj.CoreCompileInputs.cache
+C:\Git\SOGESP - SGUn\WorkFiles\obj\Debug\WorkFiles.csproj.CopyComplete
+C:\Git\SOGESP - SGUn\WorkFiles\obj\Debug\WorkFiles.dll
+C:\Git\SOGESP - SGUn\WorkFiles\obj\Debug\WorkFiles.pdb
+C:\Git\RMC - Work Files\bin\Debug\WorkFiles.dll
+C:\Git\RMC - Work Files\bin\Debug\WorkFiles.pdb
+C:\Git\RMC - Work Files\obj\Debug\WorkFiles.csproj.CoreCompileInputs.cache
+C:\Git\RMC - Work Files\obj\Debug\WorkFiles.dll
+C:\Git\RMC - Work Files\obj\Debug\WorkFiles.pdb
